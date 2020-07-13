@@ -1,0 +1,35 @@
+.search-box{
+  /* background: #f2f2f2; */
+  background: #FFFFFF;
+  padding:10px 10px 4px 10px;
+  margin: 10px 0;
+  border-bottom: 1px solid #dcdfe6;
+}
+.search-box-bg-null{
+	 background: #FFFFFF;
+}
+.search-box .el-form-item{
+  margin-bottom: 6px;
+}
+
+.el-table .tab-header.th{
+  background-color: red;
+}
+.data-list-box{
+  border: 1px solid #EBEEF5;
+}
+.btn-box{
+  margin-bottom: 10px;
+}
+.btn-box-p-top{
+  padding-top: 15px;
+}
+.main{
+  padding-top: 15px;
+  width: 100%;
+}
+
+
+.el-dialog__footer .dialog-footer{
+  text-align: left;
+}
